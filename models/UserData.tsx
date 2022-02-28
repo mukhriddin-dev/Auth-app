@@ -1,0 +1,21 @@
+export class UserData {
+  idToken: string = '';
+  email: string = '';
+  refereshToken: string = '';
+  expiresIn: number = 0;
+  localId: string = '';
+  registered: boolean = false;
+  displayName: string = '';
+  photoUrl: string = '';
+  deletedAttribute: string = '';
+  emailVerified: boolean = false;
+  providerUserInfo: any = null;
+  passwordHash: string = '';
+  passwordUpdatedAt: string = '';
+  validSince: string = '';
+  disabled: boolean = false;
+  lastLoginAt: string = '';
+  createdAt: string = '';
+  customAuth: boolean = false;
+  lastRefreshAt: string = '';
+}

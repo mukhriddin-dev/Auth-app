@@ -1,0 +1,23 @@
+{
+    "login": "Conecte-se",
+    "signup": "Inscrever-se",
+    "emailAddress": "Endereço de e-mail",
+    "mobileNumber": "Número de telemóvel",
+    "password": "Senha",
+    "createAccount": "Criar Conta",
+    "createNewAccount": "Criar nova conta",
+    "loginAccount": "Entrar com conta existente",
+    "logout": "Sair",
+    "profile": "Perfil",
+    "appName": "App incrível",
+    "close": "Perto",
+    "loginError": "Erro de login",
+    "signupError": "Erro de inscrição",
+    "sendingRequest": "Enviando pedido...",
+    "yourEmail": "Seu email",
+    "enterPassword": "Digite a senha",
+    "phoneFormat": "123-456-7890",
+    "invalidPassword": "Invalid password",
+    "invalidEmail": "Invalid email address",
+    "invalidLogin": "Invalid email or password!"
+  }

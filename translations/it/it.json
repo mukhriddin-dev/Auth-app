@@ -1,0 +1,23 @@
+{
+    "login": "Login",
+    "signup": "Iscriviti",
+    "emailAddress": "Indirizzo e-mail",
+    "mobileNumber": "Numero di cellulare",
+    "password": "Parola d'ordine",
+    "createAccount": "Crea un account",
+    "createNewAccount": "Crea un nuovo account",
+    "loginAccount": "Accedi con un account esistente",
+    "logout": "Disconnettersi",
+    "profile": "Profilo",
+    "appName": "Fantastica app",
+    "close": "Vicina",
+    "loginError": "Errore di accesso",
+    "signupError": "Errore di registrazione",
+    "sendingRequest": "Invio richiesta...",
+    "yourEmail": "La tua email",
+    "enterPassword": "Inserire la password",
+    "phoneFormat": "123-456-7890",
+    "invalidPassword": "Invalid password",
+    "invalidEmail": "Invalid email address",
+    "invalidLogin": "Invalid email or password!"
+  }

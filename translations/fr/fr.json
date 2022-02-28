@@ -1,0 +1,24 @@
+{
+    "login": "Connexion",
+    "signup": "Inscrivez-vous",
+    "emailAddress": "Adresse e-mail",
+    "mobileNumber": "Numéro de portable",
+    "password": "Mot de passe",
+    "createAccount": "Créer un compte",
+    "createNewAccount": "Créer un nouveau compte",
+    "loginAccount": "Connectez-vous avec un compte existant",
+    "logout": "Se déconnecter",
+    "profile": "Profil",
+    "appName": "Application géniale",
+    "close": "Fermer",
+    "loginError": "Erreur d'identification",
+    "signupError": "Erreur d'inscription",
+    "sendingRequest": "Envoyer une requete...",
+    "yourEmail": "Votre e-mail",
+    "enterPassword": "Entrer le mot de passe",
+    "phoneFormat": "123-456-7890",
+    "invalidPassword": "Invalid password",
+    "invalidEmail": "Invalid email address",
+    "invalidLogin": "Invalid email or password!"
+  }
+  
